@@ -1,4 +1,4 @@
-"""
+""" by nnminh
 Số nguyên tố là số nguyên lớn hơn 1 và chỉ chia hết cho 1 và chính nó.
 Dựa vào định nghĩa này ta rút ra được những tính chất sau: Số 2 là SNT chẵn duy nhất, bởi vì những số chẵn lớn hơn 2 luôn chia hết cho 1, 2 và chính nó.
 Nếu một số thỏa 2 tính chất trên thì đó là số nguyên tố.
